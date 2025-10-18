@@ -1,0 +1,5 @@
+Para rodar o código, basta digitar:
+
+python3 tradutor.py nome_do_arquivo.in
+
+Dentro do diretório do projeto
